@@ -1,55 +1,58 @@
-# Hi there 👋, I’m CuriosityZh
+# 👋 Hi, I’m **CuriosityZh**
 
-Welcome to my GitHub profile! Below is a bit about me, what I do, and what I’m working on.
+Welcome to my little corner of GitHub — where experiments, games, and ideas collide.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I’m passionate about software engineering, distributed systems, game theory, and blockchain.
-- 🛠️ My preferred stack includes **C# / .NET**, **TypeScript / Node.js / React**, and I enjoy working with **databases, algorithms, and multiplayer systems**.
-- 💡 I love building projects that blend logic, simulation, and interactivity — for example, gaming variants, negotiation systems, or multiverse/time-travel concepts.
-- 🌱 I’m always learning new paradigms: functional programming, AI, concurrency, formal methods.
+- 🎯 Passionate about **software engineering**, **distributed systems**, and **game design**  
+- 💡 I like building things that mix logic, creativity, and simulation — from **multiplayer games** to **AI-driven tools**
+- 🧠 Currently exploring **time-travel mechanics**, **blockchain logic**, and **real-time architectures**
+- 🌍 Based somewhere between code, chaos, and curiosity  
 
 ---
 
-## 📂 Featured Projects
+## 🧩 Featured Projects
 
-Here are some projects I’m particularly proud of (click to explore):
-
-- **5D Diplomacy With Multiverse Time Travel (fork / version)** — combining negotiation, time travel, and strategic gameplay.  
-- *(Add 1-2 more of your top projects with brief descriptions and links.)*
-
----
-
-## 🔧 Tools & Technologies
-
-| Type | Technologies |
-|------|---------------|
-| Languages | C#, TypeScript, JavaScript, SQL |
-| Frameworks / Platforms | .NET, React, Node.js |
-| Databases | PostgreSQL, SQLite |
-| DevOps / Tools | Docker, GitHub Actions, CI/CD, EF Core |
-| Other | Algorithms, game theory, simulation, networking |
+| Project | Description |
+|----------|--------------|
+| 🎮 [5D Diplomacy With Multiverse Time Travel](https://github.com/CuriosityZh/5d-diplomacy-with-multiverse-time-travel) | A strategic multiplayer game combining negotiation, paradoxes, and timelines |
+| ⚙️ [zigbee-herdsman-converters](https://github.com/CuriosityZh/zigbee-herdsman-converters) | Custom Zigbee device definitions and automation scripts |
+| 🧱 [openzeppelin-contracts](https://github.com/CuriosityZh/openzeppelin-contracts) | Smart contracts library (fork for custom blockchain testing) |
+| 🧪 *(and dozens more experiments...)* | exploring algorithms, simulations, and async systems |
 
 ---
 
-## 🛠 What I’m Working On
+## 🔧 Tech & Tools I Use
 
-- Improving **test coverage and robustness** in my game logic projects  
-- Building a **modular architecture** for scalable multiplayer games  
-- Contributing to open-source projects in **game dev / simulation / tooling**  
-- Exploring **AI / procedural generation / deep learning** in games
+| Category | Stack |
+|-----------|-------|
+| 🖥 Languages | C#, TypeScript, JavaScript, Python, SQL |
+| ⚙️ Frameworks | .NET, Node.js, React |
+| 🗄 Databases | PostgreSQL, SQLite |
+| 🐳 DevOps | Docker, GitHub Actions, CI/CD |
+| 🧠 Interests | Game theory, simulation, AI, blockchain |
 
 ---
 
-## 🤝 Let’s Collaborate
+## 📈 GitHub Stats
 
-I’m open to collaborating on interesting tech + game dev projects. If you have something in mind — feel free to reach out!
+![Profile Views](https://komarev.com/ghpvc/?username=CuriosityZh&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CuriosityZh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriosityZh&layout=compact&theme=tokyonight)
 
-You can connect with me via:
-- [GitHub](https://github.com/CuriosityZh)  
-- (Optional: LinkedIn / Twitter / Email / Website)
+---
 
-Let’s build something cool!  
-🚀  
+## 💬 Connect With Me
+
+I’m open to collaborations — especially where code meets creativity.  
+Whether it’s game logic, blockchain experiments, or backend architecture — I’m in.
+
+- 🐙 [GitHub](https://github.com/CuriosityZh)
+- 💌 (you can add your email or Telegram handle here)
+
+---
+
+> “Curiosity is the engine of creation.”  
+> — **CuriosityZh**
