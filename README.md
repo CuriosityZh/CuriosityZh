@@ -63,7 +63,7 @@ I’m open to collaborations — especially where code meets creativity.
 Whether it’s game logic, blockchain experiments, or backend architecture — I’m in.
 
 - 🐙 [GitHub](https://github.com/CuriosityZh)
-- 💌 (add your email or Telegram handle here)
+- 💌 (@Curiosity_z)
 
 ---
 
