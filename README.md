@@ -36,11 +36,24 @@ Welcome to my little corner of GitHub — where experiments, games, and ideas co
 
 ---
 
+## 💻 Currently
+
+![Coding](https://img.shields.io/badge/Coding%20in-C%23%20%7C%20TypeScript%20%7C%20Python-blueviolet?style=for-the-badge&logo=visualstudio)
+![Focus](https://img.shields.io/badge/Focus-Game%20Simulation%20%7C%20Blockchain-orange?style=for-the-badge&logo=unity)
+
+⏳ **Last Commit:**  
+![Last Commit](https://img.shields.io/github/last-commit/CuriosityZh/CuriosityZh?color=green&logo=git&style=flat-square)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CuriosityZh&color=blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CuriosityZh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriosityZh&layout=compact&theme=tokyonight)
+
+📊 **Contribution Graph**  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CuriosityZh&theme=tokyo-night)
 
 ---
 
@@ -50,9 +63,15 @@ I’m open to collaborations — especially where code meets creativity.
 Whether it’s game logic, blockchain experiments, or backend architecture — I’m in.
 
 - 🐙 [GitHub](https://github.com/CuriosityZh)
-- 💌 (you can add your email or Telegram handle here)
+- 💌 (add your email or Telegram handle here)
 
 ---
 
+## 🧠 Quote of the Day
+
 > “Curiosity is the engine of creation.”  
-> — **CuriosityZh**
+> — *CuriosityZh*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Keep+Building...;Stay+Curious...;Code.+Learn.+Repeat.)
+
+---
