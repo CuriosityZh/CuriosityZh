@@ -24,8 +24,6 @@ Welcome to my little corner of GitHub — where experiments, games, and ideas co
 
 ---
 
----
-
 ## 🧩 Core Projects — The Essence of My Work
 
 ### 🎮 [5D Diplomacy — Multiverse Time Travel](https://github.com/CuriosityZh/5d-diplomacy-with-multiverse-time-travel)
@@ -37,6 +35,9 @@ Exploring negotiation, paradoxes, and causality in a multi-timeline strategic si
 A playground for testing tokenomics, governance, and blockchain logic.  
 🧠 Focus: Solidity, Hardhat, and secure smart contract engineering.  
 > Engineering meets curiosity.
+
+---
+📘 **[View Development Roadmap →](https://github.com/users/CuriosityZh/projects/1)**
 
 ---
 
