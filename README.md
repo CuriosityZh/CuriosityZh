@@ -63,14 +63,8 @@ I’m open to collaborations — especially where code meets creativity.
 Whether it’s game logic, blockchain experiments, or backend architecture — I’m in.
 
 - 🐙 [GitHub](https://github.com/CuriosityZh)
-- 💌 (@Curiosity_z)
+- 💌 (https://t.me/Curiosity_z)
 
----
-
-## 🧠 Quote of the Day
-
-> “Curiosity is the engine of creation.”  
-> — *CuriosityZh*
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Keep+Building...;Stay+Curious...;Code.+Learn.+Repeat.)
 
