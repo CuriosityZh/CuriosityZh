@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **CuriosityZh**
+# 👋 Hi, I’m **Zhan**
 
 Welcome to my little corner of GitHub — where experiments, games, and ideas collide.
 
