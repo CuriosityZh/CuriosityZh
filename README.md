@@ -24,6 +24,22 @@ Welcome to my little corner of GitHub — where experiments, games, and ideas co
 
 ---
 
+---
+
+## 🧩 Core Projects — The Essence of My Work
+
+### 🎮 [5D Diplomacy — Multiverse Time Travel](https://github.com/CuriosityZh/5d-diplomacy-with-multiverse-time-travel)
+Exploring negotiation, paradoxes, and causality in a multi-timeline strategic simulation.  
+🧠 Focus: Game logic, distributed state systems, and narrative design.  
+> Every move echoes through the multiverse.
+
+### ⚙️ [Smart Contract Sandbox](https://github.com/CuriosityZh/openzeppelin-contracts)
+A playground for testing tokenomics, governance, and blockchain logic.  
+🧠 Focus: Solidity, Hardhat, and secure smart contract engineering.  
+> Engineering meets curiosity.
+
+---
+
 ## 🔧 Tech & Tools I Use
 
 | Category | Stack |
